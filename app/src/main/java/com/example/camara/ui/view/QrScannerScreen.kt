@@ -14,7 +14,9 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import com.example.camara.ui.viewmodel.QrViewModel
-import com.example.camara.lecturaqr.utils.QrScanner
+import com.example.camara.utils.QrScanner
+
+//import com.example.camara.lecturaqr.utils.QrScanner
 
 @Composable
 fun QrScannerScreen(
